@@ -1,0 +1,2 @@
+deje un zip que contiene el proyecto, no me dejo hacerlo via github, es el de inicio de sesión, me tarde por el tema de mejorarlo, pero por alguna razón no me dejo hacerlo mejor visualmente, me costo el doble que la primera vez, rarisimo aklsdkjasfad
+si alguien le puede dar algo de soporte visual, asi como esta es medio basico, lo nuevo es que dejamos de usar 2 botones para algo que se podia hacer con 1.
